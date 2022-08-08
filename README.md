@@ -5,7 +5,9 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/02d95570ab6a8f7d96171f63e38f763f6b994fc3548e225ff018795b136bf8ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f756e6974792d323032312e332d677265656e2e7376673f7374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/02d95570ab6a8f7d96171f63e38f763f6b994fc3548e225ff018795b136bf8ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f756e6974792d323032312e332d677265656e2e7376673f7374796c653d666c61742d737175617265" alt="unity 2021.3" data-canonical-src="https://img.shields.io/badge/unity-2021.3-green.svg?style=flat-square" style="max-width: 100%;"></a></p>
 
 
-<b>Mesh Cutout</b> is a simple asset used to generate meshes/cutouts based on the distance to an object at runtime in a performant manner.
+<b>Mesh Cutout</b> is a simple asset used to generate meshes/cutouts based on the distance to an object at runtime in a performant manner. 
+
+Supported in ALL graphics pipelines, since the tool modifies the mesh data directly.
 
 
 
