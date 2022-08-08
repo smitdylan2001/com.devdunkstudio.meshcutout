@@ -9,6 +9,12 @@
 
 Supported in ALL graphics pipelines, since the tool modifies the mesh data directly.
 
+# Import
+- Go to Package Manager
+- Go to Add Package from Git URL
+![image](https://user-images.githubusercontent.com/41569500/183402029-daddf2ff-1f03-4535-ab05-dcff87f18eed.png)
+- Add 'https://github.com/smitdylan2001/com.devdunkstudio.meshcutout.git'
+- Click <i>Add</i>
 
 
 # How To Use
