@@ -1,7 +1,7 @@
 {
   "name": "com.devdunkstudio.meshcutout",
   "displayName": "Mesh Cutout Tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2020.3",
   "author": "DevDunkStudio/Dylan Smit",
   "description": "Simple and Performant Mesh Cutout Script",
